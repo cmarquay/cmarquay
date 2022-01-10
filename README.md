@@ -10,6 +10,7 @@ I invite you to follow me and participate in my adventures in the land of data. 
 
 ### Let's get in touch 📲
 
+[![Tableau badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/profile/cmarquay)
 [![Microsoft Outlook badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:christianmarquay@hotmail.com)
 [![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cmarquay#8087)
 [![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/cmarquay)
